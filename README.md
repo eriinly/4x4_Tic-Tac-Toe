@@ -1,5 +1,5 @@
 # 4x4_Tic-Tac-Toe
-This is a 4x4 2-player Tic-Tac-Toe game
+This is a 4x4 2-player Tic-Tac-Toe game coded using C++.
 
 Some features incude:
 - Visible game board
